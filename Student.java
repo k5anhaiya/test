@@ -18,6 +18,9 @@ public class Student{
         System.out.println("stash 2 Student");
 
 
+        System.out.println("STASH NEW");
+
+
 
 
 
