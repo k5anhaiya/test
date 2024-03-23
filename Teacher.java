@@ -5,5 +5,7 @@ public class Teacher {
 
         System.out.println("First commit");
         System.out.println("stash 1 Teacher");
+
+        System.out.println("Second commit");
     }
 }
