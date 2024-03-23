@@ -8,6 +8,8 @@ public class Teacher {
 
         System.out.println("Second commit");
 
+        System.out.println("stash 2 Teacher");
+
         System.out.println("Third commit");
     }
 }
