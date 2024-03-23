@@ -5,5 +5,6 @@ public class Student{
         System.out.println("This is Student class.");
 
         System.out.println("First commit");
+        System.out.println("stash 1 Student");
     }
 }
