@@ -11,5 +11,10 @@ public class Teacher {
         System.out.println("stash 2 Teacher");
 
         System.out.println("Third commit");
+
+        
+
+
+        System.out.println("This is the new Commit Teacher");
     }
 }
